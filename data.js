@@ -46,9 +46,3 @@ If you think the value of the variable can change, use let.
 
 
 // The Array object has many methods and properties
-
-
-
-
-
-
